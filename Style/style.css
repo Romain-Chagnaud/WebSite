@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+}
+
+main{
+    width:auto;
+    margin: auto;
+}
+
+div#navbar{
+    color: black;
+    height:auto;
+}
+
+div#body {
+	height: 50rem;
+	background-color:#FFCC00;
+}
+/*
+@media screen and  (min-width: 1024px){
+    div#body {
+        width:1068px;
+        height:850px;
+        background-color:#FFCC00;
+    }
+    p{
+        color: blueviolet;
+    }
+
+}*/
